@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**DariusM28/DariusM28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="heder" aling="center">
+    <h1 aling="center">Hola,SOY DORIAN RENATO MEJIA CHAY</h1>
+    <h3 aling="center">soy una persona comprometida con su
+      trabajo, con experiencia en el área
+      bancaria y con conocimientos de nuevas
+      tecnologías de desarrollo.
+      Tengo buenas habilidades tanto
+      analíticas como numéricas para llevar a
+      cabo las operaciones que se me sean
+      asignadas.
+    </h3>
+  </div>
+  <hr>
